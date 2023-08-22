@@ -24,7 +24,7 @@ Many LLM applications require user-specific data that is not part of the model's
 
 ![Data connection](./images/data_connection.jpg)
 
-| Building block                                                                                  | Semantic Kernel | LangChain                                                  |
+| Building block | LangChain | Semantic Kernel |
 | ----------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------- |
 | Document loaders: Load documents from many different sources | Over 100 document loaders: [File Loaders](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/file_loaders/) (CSV, Docx, EPUB, JSON, PDF, Markdown...) and [Web Loaders](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/web_loaders/) (Azure Storage, S3, GitHub, Figma...) | Word |
 | Document transformers: Split documents, drop redundant documents, and more | Multiple Split methods          | ❌       |
