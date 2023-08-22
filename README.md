@@ -26,8 +26,8 @@ Many LLM applications require user-specific data that is not part of the model's
 
 | Building block                                                                                  | Semantic Kernel | LangChain                                                  |
 | ----------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------- |
-| Document loaders: Load documents from many different sources                                    |  [File Loaders](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/file_loaders/) (CSV, Docx, EPUB, JSON, PDF, Markdown...) and [Web Loaders](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/web_loaders/) (Azure Storage, S3, GitHub, Figma...)   | Word |
-| Document transformers: Split documents, drop redundant documents, and more                      | Multiple Split methods          | ❌       |
+| Document loaders: Load documents from many different sources | Over 100 document loaders: [File Loaders](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/file_loaders/) (CSV, Docx, EPUB, JSON, PDF, Markdown...) and [Web Loaders](https://js.langchain.com/docs/modules/data_connection/document_loaders/integrations/web_loaders/) (Azure Storage, S3, GitHub, Figma...) | Word |
+| Document transformers: Split documents, drop redundant documents, and more | Multiple Split methods          | ❌       |
 | Text embedding models: Take unstructured text and turn it into a list of floating point numbers | OpenAI, Azure OpenAI, Hugging Face, Cohere, Google PaLM, Google Vertex AI, TensorFlow    | OpenAI, Azure OpenAI, Hugging Face |
-| Vector stores: Store and search over embedded data  |  Over 50 vector stores        |  About 10 vector stores   |
-| Retrievers: Query your data  | Simple semantic search, Contextual compression, Time-weighted vector store retriever, Parent Document Retriever, Self Query Retriever, Ensemble Retriever, and more.     | Simple semantic search    |
+| Vector stores: Store and search over embedded data  |  Over 50 vector stores |  About 10 vector stores   |
+| Retrievers: Query your data  | Simple semantic search, Contextual compression, Time-weighted vector store retriever, Parent Document Retriever, Self Query Retriever, Ensemble Retriever, and more.  | Simple semantic search  |
