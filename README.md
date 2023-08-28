@@ -31,3 +31,13 @@ Many LLM applications require user-specific data that is not part of the model's
 | Text embedding models: Take unstructured text and turn it into a list of floating point numbers | Over 25 different embedding providers: OpenAI, Azure OpenAI, Hugging Face, Cohere, Google PaLM, Google Vertex AI, TensorFlow...                                                                                                                                                                                                                  | OpenAI, Azure OpenAI, Hugging Face |
 | Vector stores: Store and search over embedded data                                              | Over 50 vector stores                                                                                                                                                                                                                                                                                                                            | About 10 vector stores             |
 | Retrievers: Query your data                                                                     | Simple semantic search, Contextual compression, Time-weighted vector store retriever, Parent Document Retriever, Self Query Retriever, Ensemble Retriever, and more.                                                                                                                                                                             | Simple semantic search             |
+
+
+## Automatically orchestrate AI
+
+| Type                   | LangChain's Agents | Semantic Kernel's Planner |
+| ---------------------- | ------------------ | ------------------------- |
+| Conversational         | ✅                 | ❌                        |
+| Plan and execute       | ✅                 | ✅ (SequentialPlanner)    |
+| ReAct                  | ✅                 | ✅ (StepwisePlanner)      |
+| Tree of Thoughts (ToT) | ✅                 | ❌                        |
