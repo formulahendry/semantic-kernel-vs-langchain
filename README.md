@@ -16,7 +16,7 @@ The repo tries to compare Semantic Kernel and LangChain to show the difference a
 | Python     | ✅        | ✅              |
 | JavaScript | ✅        | ❌              |
 | C#         | ❌        | ✅              |
-| Java       | ❌        | ✅              |
+| Java       | ✅        | ✅              |
 
 ## Data connection (Retrieval)
 
