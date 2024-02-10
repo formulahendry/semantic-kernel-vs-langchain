@@ -15,9 +15,9 @@ LangChain: Oct, 2022
 Semantic Kernel: Apr, 2023 
 
 ## Some Numbers
-Semantic Kernel: <img alt="Github Stars" src="https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square&labelColor=343b41"/> [![NuGet](https://img.shields.io/nuget/dt/Microsoft.SemanticKernel)](https://www.nuget.org/packages/Microsoft.SemanticKernel) <img src="https://img.shields.io/github/contributors/microsoft/semantic-kernel?logo=github&label=contributors" alt="GitHub contributors"/>
+Semantic Kernel: <img alt="Github Stars" src="https://img.shields.io/github/stars/microsoft/semantic-kernel?logo=github&style=flat-square&labelColor=343b41"/> [![NuGet](https://img.shields.io/nuget/dt/Microsoft.SemanticKernel)](https://www.nuget.org/packages/Microsoft.SemanticKernel) <img src="https://img.shields.io/github/contributors/microsoft/semantic-kernel?logo=github&label=contributors" alt="GitHub contributors"/>
 
-LangChain: <img alt="Github Stars" src="https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&labelColor=343b41"/> [![Downloads](https://static.pepy.tech/badge/langchain)](https://pepy.tech/project/langchain) <img src="https://img.shields.io/github/contributors/langchain-ai/langchain?logo=github&label=contributors" alt="GitHub contributors"/>
+LangChain: <img alt="Github Stars" src="https://img.shields.io/github/stars/langchain-ai/langchain?logo=github&style=flat-square&labelColor=343b41"/> [![Downloads](https://static.pepy.tech/badge/langchain)](https://pepy.tech/project/langchain) <img src="https://img.shields.io/github/contributors/langchain-ai/langchain?logo=github&label=contributors" alt="GitHub contributors"/>
 
 
 ## Supported languages
