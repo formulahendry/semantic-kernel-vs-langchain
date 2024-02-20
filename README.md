@@ -12,7 +12,7 @@ The repo tries to compare Semantic Kernel and LangChain to show the difference a
 ## Initial Release Date
 LangChain: Oct, 2022
 
-Semantic Kernel: Apr, 2023 
+Semantic Kernel: Mar, 2023 
 
 ## Some Numbers
 Semantic Kernel: <img alt="Github Stars" src="https://img.shields.io/github/stars/microsoft/semantic-kernel?logo=github&style=flat-square&labelColor=343b41"/> [![NuGet](https://img.shields.io/nuget/dt/Microsoft.SemanticKernel?label=Nuget-downloads)](https://www.nuget.org/packages/Microsoft.SemanticKernel) [![Pip Downloads](https://static.pepy.tech/badge/semantic-kernel)](https://pepy.tech/project/semantic-kernel) <img src="https://img.shields.io/github/contributors/microsoft/semantic-kernel?logo=github&label=contributors" alt="GitHub contributors"/>
